@@ -28,10 +28,10 @@ Feel free to reach out and connect. Let's code the future together! 🚀
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krisha-cmd&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
 </div>
 
-## 🏆 GitHub Trophies
-
+<div>
+ ## 🏆 GitHub Trophies
   <img src="https://github-profile-trophy.vercel.app/?username=Krisha-cmd&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies">
-
+</div>
 
 ### 🔝 Top Contributed Repositories
 <img src="https://github-contributor-stats.vercel.app/api?username=Krisha-cmd&limit=5&theme=tokyonight&hide_border=true&combine_all_yearly_contributions=true" alt="Top Contributed Repositories">
