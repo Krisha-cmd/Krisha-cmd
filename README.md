@@ -35,3 +35,7 @@ Feel free to reach out and connect. Let's code the future together! 🚀
 
 ### 🔝 Top Contributed Repositories
 <img src="https://github-contributor-stats.vercel.app/api?username=Krisha-cmd&limit=5&theme=tokyonight&hide_border=true&combine_all_yearly_contributions=true" alt="Top Contributed Repositories">
+
+---
+##### How famous am I?
+[![](https://visitcount.itsvg.in/api?id=Krisha-cmd&icon=3&color=3)](https://visitcount.itsvg.in)
